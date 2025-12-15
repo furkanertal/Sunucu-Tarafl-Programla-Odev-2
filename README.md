@@ -56,7 +56,8 @@ Y	            Sayı	            Dikey düzlemdeki konum (0-600 arası)
 ![Boş Çizim](resim3.png)
 
 **4. Boş Veritabanı Olduğunda Grafik**
-| ![Grafik Çizimi](resim4.png) |
+|![Grafik Çizimi](resim4.png)|
+
 
 
 
