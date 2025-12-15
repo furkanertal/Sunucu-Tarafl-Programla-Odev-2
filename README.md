@@ -40,11 +40,7 @@ Bu proje veritabanına yazma işlemi yaptığı için klasör izinlerinin doğru
     Tarayıcınızda http://localhost/index.asp adresine giderek koordinat girmeye başlayabilirsiniz.
 
 💾 Veritabanı Şeması (Noktalar Tablosu)
-Alan Adı	    Veri Türü	        Açıklama
-ID            	Otomatik Sayı	    Primary Key
-SiraNo	        Sayı	            Noktaların birleştirilme sırası
-X	            Sayı	            Yatay düzlemdeki konum (0-800 arası)
-Y	            Sayı	            Dikey düzlemdeki konum (0-600 arası)
+|![Veritabanı Tablosu](resim5.png)|
 
 ## 📸 Ekran Görüntüleri Kullanım Senaryosu
 
@@ -57,6 +53,7 @@ Y	            Sayı	            Dikey düzlemdeki konum (0-600 arası)
 
 **4. Boş Veritabanı Olduğunda Grafik**
 |![Grafik Çizimi](resim4.png)|
+
 
 
 
