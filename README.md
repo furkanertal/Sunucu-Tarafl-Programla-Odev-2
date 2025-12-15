@@ -6,39 +6,39 @@ Bu proje, \*\*Classic ASP (Active Server Pages)\*\* ve \*\*Microsoft Access\*\* 
 
 
 
-\## 🚀 Proje Özellikleri
+## 🚀 Proje Özellikleri
 
 
 
-\* \*\*Veri Girişi:\*\* Kullanıcı X ve Y koordinatlarını ve çizim sırasını (Sıra No) sisteme girer.
+* \*\*Veri Girişi:\*\* Kullanıcı X ve Y koordinatlarını ve çizim sırasını (Sıra No) sisteme girer.
 
-\* \*\*Veritabanı Entegrasyonu:\*\* Girilen veriler Microsoft Access (.mdb) veritabanında kalıcı olarak saklanır.
+* \*\*Veritabanı Entegrasyonu:\*\* Girilen veriler Microsoft Access (.mdb) veritabanında kalıcı olarak saklanır.
 
-\* \*\*Dinamik Çizim (SVG):\*\* `ciz.asp` sayfası, veritabanındaki noktaları sırasına göre okur ve `<polyline>` kullanarak şekli oluşturur.
+* \*\*Dinamik Çizim (SVG):\*\* `ciz.asp` sayfası, veritabanındaki noktaları sırasına göre okur ve `<polyline>` kullanarak şekli oluşturur.
 
-\* \*\*Görselleştirme:\*\* Her koordinat noktası üzerinde görsel işaretleyici ve koordinat bilgisi yer alır.
+* \*\*Görselleştirme:\*\* Her koordinat noktası üzerinde görsel işaretleyici ve koordinat bilgisi yer alır.
 
-\* \*\*Veri Yönetimi:\*\* Veritabanındaki çizim verileri tek tuşla temizlenebilir.
-
-
-
-\## 🛠 Kullanılan Teknolojiler
+* \*\*Veri Yönetimi:\*\* Veritabanındaki çizim verileri tek tuşla temizlenebilir.
 
 
 
-\* \*\*Backend:\*\* Classic ASP (VBScript)
-
-\* \*\*Veritabanı:\*\* Microsoft Access 2000-2003 (.mdb)
-
-\* \*\*Veri Erişim:\*\* ADODB (Jet OLEDB 4.0)
-
-\* \*\*Frontend:\*\* HTML5, CSS3
-
-\* \*\*Grafik Motoru:\*\* SVG (Scalable Vector Graphics)
+## 🛠 Kullanılan Teknolojiler
 
 
 
-\## 📂 Dosya Yapısı
+* \*\*Backend:\*\* Classic ASP (VBScript)
+
+* \*\*Veritabanı:\*\* Microsoft Access 2000-2003 (.mdb)
+
+* \*\*Veri Erişim:\*\* ADODB (Jet OLEDB 4.0)
+
+* \*\*Frontend:\*\* HTML5, CSS3
+
+* \*\*Grafik Motoru:\*\* SVG (Scalable Vector Graphics)
+
+
+
+## 📂 Dosya Yapısı
 
 
 
@@ -84,6 +84,7 @@ Bu proje veritabanına yazma işlemi yaptığı için klasör izinlerinin doğru
 2. Dinamik Çizim Sonucu
 
 ![Çizim Ekranı](ekran2.png))
+
 
 
 
