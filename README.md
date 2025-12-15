@@ -1,4 +1,4 @@
-\## 📈 ASP ile Dinamik Koordinat ve Grafik Çizim Sistemi
+## 📈 ASP ile Dinamik Koordinat ve Grafik Çizim Sistemi
 
 
 
@@ -84,5 +84,6 @@ Bu proje veritabanına yazma işlemi yaptığı için klasör izinlerinin doğru
 2. Dinamik Çizim Sonucu
 
 ![Çizim Ekranı](ekran2.png))
+
 
 
